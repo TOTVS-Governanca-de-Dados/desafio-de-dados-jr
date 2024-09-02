@@ -13,7 +13,7 @@ O objetivo deste desafio é coletar dados de uma API de jogos (MMO), processá-l
 Você irá coletar os dados da seguinte API: [API de Jogos](https://www.mmobomb.com/api1/games).
 
 A API retorna uma lista de jogos com várias informações, como título, gênero, plataforma, desenvolvedor, data de lançamento, entre outras.
-Aqui está a documentação da API [MMO](https://www.mmobomb.com/api)
+Aqui está a documentação da API [Docs MMO](https://www.mmobomb.com/api)
 
 ## Tarefas
 
@@ -62,7 +62,7 @@ Os seguintes critérios serão considerados na avaliação do desafio:
 
 ## Dicas
 
-- Leia a documentação da API para entender melhor os dados disponíveis. [MMO](https://www.mmobomb.com/api)
+- Leia a documentação da API para entender melhor os dados disponíveis. [Docs MMO](https://www.mmobomb.com/api)
 - Utilize notebooks como Jupyter para organizar o processo de análise.
 - Teste diferentes tipos de gráficos para encontrar a melhor forma de representar os dados.
 - Tenha criatividade
