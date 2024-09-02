@@ -4,6 +4,10 @@
 
 O objetivo deste desafio é coletar dados de uma API de jogos (MMO), processá-los e responder a algumas perguntas sobre esses dados. Você deve utilizar bibliotecas como **Pandas** e **PySpark** para a manipulação e análise dos dados, e gerar gráficos para ilustrar suas respostas com qualquer biblioteca do Python.
 
+## Tempo
+
+1 semana para o envio
+
 ## API
 
 Você irá coletar os dados da seguinte API: [API de Jogos](https://www.mmobomb.com/api1/games).
