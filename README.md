@@ -1,4 +1,4 @@
-# Desafio de Data Engineering - Júnior
+# Desafio de Data Engineer Júnior
 
 ## Objetivo
 
