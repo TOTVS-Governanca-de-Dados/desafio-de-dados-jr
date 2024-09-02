@@ -14,7 +14,7 @@ Aqui está a documentação da API [MMO](https://www.mmobomb.com/api)
 ## Tarefas
 
 1. **Coleta de Dados:**
-   - Utilize a API fornecida para coletar os dados de jogos.
+   - Utilize a API fornecida para coletar os dados de jogos. (Utilize Python Requests)
    - Armazene os dados em um DataFrame utilizando a biblioteca **Pandas**.
 
 2. **Transformação de Dados:**
